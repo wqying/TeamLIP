@@ -1,0 +1,2 @@
+# TeamLIP
+IrvineHacks team repo
