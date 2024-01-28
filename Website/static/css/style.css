@@ -30,6 +30,10 @@ body {
   padding-bottom: 90px;
 }
 
+.iframe-container {
+  text-align: center;
+}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;

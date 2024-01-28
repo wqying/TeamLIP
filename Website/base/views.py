@@ -22,3 +22,6 @@ def debt(request):
 
 def investing(request): 
     return render(request, "investing.html")
+
+def map(request): 
+    return render(request, "map.html")

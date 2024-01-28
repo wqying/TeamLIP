@@ -8,5 +8,6 @@ urlpatterns = [
     path("savings/", views.savings, name="savings"),
     path("debt/", views.debt, name="debt"),
     #path("index/", views.index, name="index"),
-    path("investing/", views.investing, name="investing"), #may need to edit to match
+    path("investing/", views.investing, name="investing"),
+    path("map/", views.map, name="map"), #may need to edit to match
 ]
